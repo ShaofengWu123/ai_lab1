@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/root/ai_lab1/AIexp1/main.cpp" "CMakeFiles/exp1.dir/main.cpp.o" "gcc" "CMakeFiles/exp1.dir/main.cpp.o.d"
+  "/root/ai_lab1/main.cpp" "CMakeFiles/exp1.dir/main.cpp.o" "gcc" "CMakeFiles/exp1.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.
